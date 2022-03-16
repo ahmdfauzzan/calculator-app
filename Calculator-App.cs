@@ -15,7 +15,7 @@ namespace CalculatorConsoleApp
             int b = 0; //decalrasi variabel b, dg nilai awal 6;
             int menu;
 
-            int total = 0;
+            int total = 0; // declarasi variabel total;
 
             Console.WriteLine("Pilih menu calculator:");
             Console.WriteLine("1. Penambahan");
